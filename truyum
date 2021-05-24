@@ -1,0 +1,12 @@
+package com.constractor;
+
+public class emp {
+
+	int id;
+	
+	public static void main(String[] args) {
+		emp employee=new emp();
+		System.out.println(employee.id);
+    
+	}
+}
